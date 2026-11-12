@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Uploads (if generated at runtime)
+uploads/
+
+# Build
+dist/
+
+# Coverage
+coverage/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+public/images
+
+# OS Files
+.DS_Store
+Thumbs.db
